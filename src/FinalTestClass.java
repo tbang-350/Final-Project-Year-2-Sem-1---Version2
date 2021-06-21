@@ -6,7 +6,7 @@ class FInalTestClass extends MenuItems {
         Scanner input = new Scanner(System.in);
         String contnue;
         char cont = 'y';
-        int sum = 0;
+        //int sum = 0;
         while (cont == 'y') {
             ShowMenu();
             System.out.println("Enter your choice: ");
